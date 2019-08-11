@@ -1,2 +1,2 @@
 # example
-example repo for learning git xumeng is angry bird
+example repo for learning git panda is angry bird
